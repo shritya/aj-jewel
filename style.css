@@ -5,6 +5,7 @@
 }
 body {
   font-family: "Poppins", sans-serif;
+  margin: auto;
 }
 .header {
   background-repeat: no-repeat;
@@ -77,3 +78,16 @@ a:hover {
     height: 200px;
     background-image: url(./Assets/banner2.png);
 } */
+.content{
+  display: flexbox;
+  text-align: center;
+}
+.cont-heading{
+  font-weight: bold;
+}
+.heading-deco{
+  color: #EBBF60;
+}
+.jewel-items{
+  
+}
